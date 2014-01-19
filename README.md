@@ -1,12 +1,4 @@
-% My Book
-% Monty Zukowski
+A place to keep my own recipes in markdown so I can format them and put them on my nook.
 
-This is my book!
+Instructions for pandoc at http://johnmacfarlane.net/pandoc/epub.html
 
-# Chapter One
-
-Chapter one is over.
-
-# Chapter Two
-
-Chapter two has just begun.
