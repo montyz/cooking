@@ -10,5 +10,5 @@ To-do:
 - styling to remove bullets from lists
 - proper symbols for 1/2, etc.
 - standardization on units & measures
-- proper index?
+- proper index? -- may have to generate it using [Header identifiers](http://johnmacfarlane.net/pandoc/README.html#header-identifiers-in-html-latex-and-context)
 - do it in lyx instead?
