@@ -10,3 +10,5 @@ To-do:
 - styling to remove bullets from lists
 - proper symbols for 1/2, etc.
 - standardization on units & measures
+- proper index?
+- do it in lyx instead?
