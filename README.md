@@ -2,6 +2,8 @@ A place to keep my own recipes in markdown so I can format them and put them on 
 
 Instructions for pandoc at http://johnmacfarlane.net/pandoc/epub.html
 
+    pandoc -f markdown_phpextra  -o r.epub *.md
+
 Markdown syntax at http://daringfireball.net/projects/markdown/syntax
 
 To-do:
@@ -12,3 +14,4 @@ To-do:
 - standardization on units & measures
 - proper index? -- may have to generate it using [Header identifiers](http://johnmacfarlane.net/pandoc/README.html#header-identifiers-in-html-latex-and-context)
 - do it in lyx instead?
+- may want to use http://www.nltk.org/ to do natural language parsing to recognize ingredient lists and properly format them
